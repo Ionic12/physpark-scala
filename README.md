@@ -33,7 +33,7 @@
 <img src="Accumulator.py.png">
 
 <h1> PairRDD.py</h1>
-  <p align="justify"menggunakan Spark Context untuk membuat RDD dari sebuah list, melakukan pemetaan dengan fungsi lambda untuk menghasilkan pasangan (key, value), lalu mencetak elemen dan mengambil setiap key dan value dari RDD menggunakan fungsi keys() dan values().</p>
+  <p align="justify">menggunakan Spark Context untuk membuat RDD dari sebuah list, melakukan pemetaan dengan fungsi lambda untuk menghasilkan pasangan (key, value), lalu mencetak elemen dan mengambil setiap key dan value dari RDD menggunakan fungsi keys() dan values().</p>
 <img src="PairRDD.py.png">
 
 
