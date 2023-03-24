@@ -13,7 +13,7 @@
   <p align="justify">Kode tersebut membaca file teks "README.md" dan menghitung jumlah kemunculan setiap kata pada file tersebut. Setiap baris pada file dipecah-pecah menjadi kata-kata menggunakan flatMap(), diubah menjadi pasangan (kata, 1) menggunakan map(), dan dijumlahkan berdasarkan kata-kata yang sama menggunakan reduceByKey(). Hasil akhirnya adalah pasangan (kata, jumlah kemunculan kata) yang ditampilkan menggunakan loop for.</p>
   <img src="WordCount.png">
   
-  <h1> SystemCommandsOutput.py</h1>
+  <h1> SystemCommandsOutput.scala</h1>
   <p align="justify">Kode tersebut mengeksekusi perintah shell hadoop fs -ls menggunakan Scala dan menampilkan output dari perintah tersebut.</p>
   <img src="SystemCommandsOutput1.png">
   <img src="SystemCommandsOutput2.png">
